@@ -17,6 +17,7 @@ Alternative models to be discovered to understand survival analysis basics:
 - Weibull Model
 - Bayesian Survival Analysis
 - Tree Structured Survival Models
+- Kaplan-Meier(K-M)
  
 Resources (tutorials, blogposts, books or videos) to reference: 
  
