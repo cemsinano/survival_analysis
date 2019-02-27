@@ -10,6 +10,9 @@ Available tools and libraries on Python and R:
 - [Survivalstan, Python](https://pypi.org/project/survivalstan/)
 - [Simsurv, R](https://github.com/sambrilleman/simsurv)
 - [KMsurv, R](https://cran.r-project.org/web/packages/KMsurv/index.html)
+- [frailtypack, R](https://cran.r-project.org/web/packages/frailtypack/index.html)
+- [frailtySurv, R](https://cran.r-project.org/web/packages/frailtySurv/frailtySurv.pdf)
+- [frailtyEM, R](https://cran.r-project.org/web/packages/frailtyEM/index.html)
  
 Alternative models to be discovered to understand survival analysis basics: 
 
@@ -18,6 +21,7 @@ Alternative models to be discovered to understand survival analysis basics:
 - Bayesian Survival Analysis
 - Tree Structured Survival Models
 - Kaplan-Meier(K-M)
+- Frailty models
  
 Resources (tutorials, blogposts, books or videos) to reference: 
  
@@ -25,3 +29,4 @@ Resources (tutorials, blogposts, books or videos) to reference:
 - [An example with Lifelines](https://github.com/anurag-code/Survival-Analysis-Lifelines/blob/master/Survival%20Analysis%20-%20Quick%20Implementation.ipynb)
 - [Survival Analysis in R For Beginners, Datacamp](https://www.datacamp.com/community/tutorials/survival-analysis-R)
 - [Survival Analysis Examples with RStan](https://github.com/jburos/biostan-examples)
+- [Survival Analysis Tutorial, Boston University SPH](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Survival/BS704_Survival_print.html)
