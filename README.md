@@ -13,6 +13,10 @@ Available tools and libraries on Python and R:
 - [frailtypack, R](https://cran.r-project.org/web/packages/frailtypack/index.html)
 - [frailtySurv, R](https://cran.r-project.org/web/packages/frailtySurv/frailtySurv.pdf)
 - [frailtyEM, R](https://cran.r-project.org/web/packages/frailtyEM/index.html)
+- [bayesSurv, R](https://cran.r-project.org/web/packages/bayesSurv/index.html)
+- [BMA, R](https://cran.r-project.org/web/packages/BMA/index.html)
+ 
+[CRAN Task View: Survival Analysis](https://cran.r-project.org/web/views/Survival.html) contains further information on survival analysis R packages with brief information for each one.
  
 Alternative models to be discovered to understand survival analysis basics: 
 
