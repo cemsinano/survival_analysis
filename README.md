@@ -15,6 +15,7 @@ Available tools and libraries on Python and R:
 - [frailtyEM, R](https://cran.r-project.org/web/packages/frailtyEM/index.html)
 - [bayesSurv, R](https://cran.r-project.org/web/packages/bayesSurv/index.html)
 - [BMA, R](https://cran.r-project.org/web/packages/BMA/index.html)
+- [lifetimes, Python](https://github.com/CamDavidsonPilon/lifetimes) 
  
 [CRAN Task View: Survival Analysis](https://cran.r-project.org/web/views/Survival.html) contains further information on survival analysis R packages with brief information for each one.
  
@@ -34,3 +35,4 @@ Resources (tutorials, blogposts, books or videos) to reference:
 - [Survival Analysis in R For Beginners, Datacamp](https://www.datacamp.com/community/tutorials/survival-analysis-R)
 - [Survival Analysis Examples with RStan](https://github.com/jburos/biostan-examples)
 - [Survival Analysis Tutorial, Boston University SPH](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Survival/BS704_Survival_print.html)
+- [Pareto/NBD Model Video: Implementing and Training Predictive Customer Lifetime Value Models in Python](https://www.youtube.com/watch?v=gx6oHqpRgpY)
