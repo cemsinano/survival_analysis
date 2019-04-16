@@ -1,10 +1,11 @@
 # customer_churn
 
-It is a document to discover different methods for Customer Churn Prediction. Here, I will try to summarize models and resources shortly.
+It is a document to discover different methods for Customer Churn Prediction. Here, I will try to list some models and resources shortly.
 
 Available tools and libraries on Python and R:
  
 - [lifelines, Python](https://lifelines.readthedocs.io/en/latest/)
+- [lifetimes, Python](https://github.com/CamDavidsonPilon/lifetimes) 
 - [Survival, R](https://cran.r-project.org/web/packages/survival/survival.pdf)
 - [scikit-survival, Python](https://pypi.org/project/scikit-survival/)
 - [Survivalstan, Python](https://pypi.org/project/survivalstan/)
@@ -15,7 +16,7 @@ Available tools and libraries on Python and R:
 - [frailtyEM, R](https://cran.r-project.org/web/packages/frailtyEM/index.html)
 - [bayesSurv, R](https://cran.r-project.org/web/packages/bayesSurv/index.html)
 - [BMA, R](https://cran.r-project.org/web/packages/BMA/index.html)
-- [lifetimes, Python](https://github.com/CamDavidsonPilon/lifetimes) 
+
  
 [CRAN Task View: Survival Analysis](https://cran.r-project.org/web/views/Survival.html) contains further information on survival analysis R packages with brief information for each one.
  
@@ -36,3 +37,4 @@ Resources (tutorials, blogposts, books or videos) to reference:
 - [Survival Analysis Examples with RStan](https://github.com/jburos/biostan-examples)
 - [Survival Analysis Tutorial, Boston University SPH](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Survival/BS704_Survival_print.html)
 - [Pareto/NBD Model Video: Implementing and Training Predictive Customer Lifetime Value Models in Python](https://www.youtube.com/watch?v=gx6oHqpRgpY)
+
