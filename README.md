@@ -37,5 +37,6 @@ Resources (tutorials, blogposts, books or videos) to reference:
 - [Survival Analysis Examples with RStan](https://github.com/jburos/biostan-examples)
 - [Survival Analysis Tutorial, Boston University SPH](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Survival/BS704_Survival_print.html)
 - [Pareto/NBD Model Video: Implementing and Training Predictive Customer Lifetime Value Models in Python - PyData Seattle 2017](https://www.youtube.com/watch?v=gx6oHqpRgpY)
-- [Using Survival Analysis to understand customer retention - Lorna Brightmore - pyData London 2018](https://www.youtube.com/watch?v=aKZQUaNHYb0)
+- [Using Survival Analysis to understand customer retention - Lorna Brightmore - PyData London 2018](https://www.youtube.com/watch?v=aKZQUaNHYb0)
+-[A short course on Survival Analysis applied to the Financial Industry, BBVA Analytics 2017](https://bookdown.org/sestelo/sa_financial/)
 
